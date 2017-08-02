@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Add merge.
 This is in dev version.
 Test stash.
+test delete branch -d.
